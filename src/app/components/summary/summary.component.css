@@ -1,0 +1,15 @@
+/* The host selector is a way to specify that you want the styles to apply to the element
+that hosts the element, so in this case it will look at the Summary component element
+itself rather than the contents inside it. The primary purpose of the CSS here is to establish
+the Summary component background color. */
+:host .stock-card {
+    background: #333333;
+    }
+    :host .stock-card.increase {
+    background: #558B2F;
+    color: #fff;
+    }
+    :host .stock-card.decrease {
+    background: #C62828;
+    color: #fff;
+    }
