@@ -12,3 +12,5 @@ ng generate component components/summary
 
 ng generate component components/dashboard
 
+ng generate component components/manage
+
