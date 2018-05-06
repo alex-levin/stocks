@@ -1,4 +1,4 @@
-Angular in Action Manning 2018
+## Angular in Action Manning 2018 - following along
 
 ng new stocks
 
